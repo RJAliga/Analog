@@ -53,16 +53,3 @@ a {
 a:hover, a.on {
 	color: #cc3333;
 	background-color: #ffffff;}
-.wrapper{
-    width: 420;
-    background: transparent;
-    color: whitesmoke;
-    margin-left:30% ;
-    margin-right:30% ;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 20px;
-    padding: 25px 30px;
-    backdrop-filter: blur(15px);
-    box-shadow:0 0 5px rgba(0, 0, 0, .2) ;
